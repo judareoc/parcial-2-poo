@@ -1,0 +1,5 @@
+E001|Ensalada César|entrada|85.0|True
+P001|Filete de Res|plato_fuerte|350.0|True
+P002|Pasta Alfredo|plato_fuerte|180.0|True
+D001|Tiramisú|postre|95.0|True
+B001|Limonada|bebida|45.0|True

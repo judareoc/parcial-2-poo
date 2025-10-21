@@ -1,0 +1,3 @@
+I001|Quesadillas|entrada|90.0|True
+I002|Tacos al Pastor|plato_fuerte|120.0|True
+I003|Flan|postre|60.0
