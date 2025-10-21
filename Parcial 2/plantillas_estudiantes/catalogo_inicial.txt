@@ -1,10 +1,10 @@
+9788433977366|2666|Roberto Bolaño|2004|Novela|8
+9788420410380|Cien años de soledad|Gabriel García Márquez|1967|Realismo Mágico|10
+9788437604947|La casa de los espíritus|Isabel Allende|1982|Realismo Mágico|7
 9780134685991|Effective Python|Brett Slatkin|2019|Programación|5
-9780135404676|Python Crash Course|Eric Matthes|2019|Programación|3
-9781449355739|Fluent Python|Luciano Ramalho|2015|Programación|2
-9780596007126|Head First Design Patterns|Eric Freeman|2004|Ingeniería Software|4
-9780132350884|Clean Code|Robert Martin|2008|Ingeniería Software|6
-9780201633610|Design Patterns|Gang of Four|1994|Ingeniería Software|3
-9780596009205|Head First Java|Kathy Sierra|2005|Programación|5
-9781491946008|Fluent Python 2nd|Luciano Ramalho|2022|Programación|4
-9780134190440|The Go Programming Language|Alan Donovan|2015|Programación|2
-9781617294433|Grokking Algorithms|Aditya Bhargava|2016|Algoritmos|8
+9780135404676|Python Crash Course|Eric Matthes|2019|Programación|6
+9781449355739|Fluent Python|Luciano Ramalho|2015|Programación|4
+9780553212419|Siddhartha|Hermann Hesse|1922|Ficción Filosófica|12
+9780743273565|The Old Man and the Sea|Ernest Hemingway|1952|Novela|9
+9789875801486|Ficciones|Jorge Luis Borges|1944|Cuento|11
+9780321765723|The C++ Programming Language|Bjarne Stroustrup|2013|Programación|3
